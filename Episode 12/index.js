@@ -91,4 +91,4 @@ client.on("message", async message => {
     }
 })
 
-client.login(token);
+client.login(NjIzMjM5MDU2NjYyMzMxMzky.XX_img.mHJ-CT8NUS4rnRGLprHIrmbK-E8);
